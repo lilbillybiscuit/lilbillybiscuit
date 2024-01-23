@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a first-year Computer Science and Economics major at Yale University! I love programming, designing algorithms, and building solutions that make impacts. I currently work with Yale Computer Society, YES Internships, and lead the RoomAdvisor team in bringing services to the Yale community. My current research is on Code Generation in Bioinformatics, working under the direction of Mark Gerstein and Robert Tang.
+I am a second-year Computer Science and Economics major at Yale University! I love programming, designing algorithms, and building solutions that make impacts. I currently work with Yale Computer Society, YES Internships, and lead the RoomAdvisor team in bringing services to the Yale community. My current research is on Code Generation in Bioinformatics, working under the direction of Mark Gerstein and Robert Tang.
